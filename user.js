@@ -3,6 +3,7 @@
 // @version      0.1
 // @author       effus
 // @grant        none
+// @match        http://redmine.yourhost/*
 // ==/UserScript==
 
 (function() {
