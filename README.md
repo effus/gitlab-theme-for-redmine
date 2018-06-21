@@ -1,2 +1,3 @@
-# gitlab-theme-for-redmine
-Gitlab theme for Redmine as a js to setup userscript in your browser
+# Gitlab theme for Redmine
+
+May use with Tampermonkey Extention in Chrome Browser
